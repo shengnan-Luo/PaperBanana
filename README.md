@@ -1,8 +1,8 @@
-# PaperBanana-CN 学术配图助手 🍌
+# PaperBanana 学术配图助手 🍌
 
 AI 驱动的学术论文配图生成工具 — 粘贴论文方法章节，自动生成高质量学术配图。
 
-基于开源项目 [PaperBanana](https://github.com/dwzhu-pku/PaperBanana)（[论文](https://huggingface.co/papers/2601.23265)）改造，全中文界面，国内可直接使用。
+基于开源项目 [PaperBanana](https://github.com/dwzhu-pku/PaperBanana)（[论文](https://huggingface.co/papers/2601.23265)）和 [PaperBanana-CN](https://github.com/Mylszd/PaperBanana-CN) 改造，**新增自定义OpenAI兼容API支持**，可接入任何兼容OpenAI格式的API服务。
 
 ![示例效果](assets/teaser_figure.jpg)
 
