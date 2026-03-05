@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./win-start.bat:*)",
+      "Bash(./win-start-simple.bat:*)"
+    ]
+  }
+}
